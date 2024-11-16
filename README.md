@@ -30,4 +30,9 @@ I am deeply interested in **software architecture modernization**, particularly 
 - **Databases**: PostgreSQL, MongoDB, Oracle  
 - **Development Practices**: Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD)
 
+---
+
+## 📝 Blog
+I regularly write about software engineering, architecture, and related topics on my [blog](https://camilyed.github.io/). Check it out for deeper insights, practical advice, and industry trends that I share from my experiences.
+
 I am always looking for new challenges where I can combine my technical expertise with a strategic mindset to build systems that are **scalable**, **adaptable**, and **business-driven**.
