@@ -1,5 +1,11 @@
 # 👨‍💻 Software Engineer | Pragmatist with 10+ Years of Experience
 
+🌍 **Language Versions**:  
+- [🇵🇱 Wersja Polska (Polish Version)](https://github.com/CamilYed/CamilYed/blob/main/README_PL.md)  
+- [🇬🇧 English Version](https://github.com/CamilYed/CamilYed/blob/main/README.md)
+
+---
+
 I am a software engineer with over 10 years of experience in industries such as **e-commerce**, **fintech**, and **HR-tech**. I value precision and pragmatism in designing solutions. My approach to software engineering goes beyond just coding — I strive to understand the **strategic needs of the organizations** I work for and build solutions that align with those goals.
 
 ---
