@@ -33,6 +33,6 @@ Jestem głęboko zainteresowany **modernizacją architektury oprogramowania**, s
 ---
 
 ## 📝 Blog  
-Regularnie piszę o inżynierii oprogramowania, architekturze i pokrewnych tematach na moim [blogu](https://camilyed.github.io/). Zajrzyj, aby zapoznać się z głębszymi przemyśleniami, praktycznymi wskazówkami oraz trendami branżowymi, które dzielę się z mojego doświadczenia.
+Regularnie piszę o szerokim zakresie tematów na moim [blogu](https://camilyed.github.io/): od inżynierii oprogramowania i architektury systemów, po refleksje na temat osobistych doświadczeń i wyzwań. Zajrzyj, aby zapoznać się z głębszymi przemyśleniami, praktycznymi wskazówkami oraz trendami branżowymi, którymi dzielę się z mojego doświadczenia.
 
 Zawsze szukam nowych wyzwań, gdzie mogę połączyć moją wiedzę techniczną z myśleniem strategicznym, tworząc systemy, które są **skalowalne**, **adaptowalne** i **skierowane na biznes**.
