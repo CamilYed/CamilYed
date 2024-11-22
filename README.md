@@ -33,6 +33,8 @@ I am deeply interested in **software architecture modernization**, particularly 
 ---
 
 ## 📝 Blog
-I regularly write about software engineering, architecture, and related topics on my [blog](https://camilyed.github.io/). Check it out for deeper insights, practical advice, and industry trends that I share from my experiences.
+I regularly write about a wide range of topics on my blog, from software engineering and architecture to reflections on personal experiences and challenges. You’ll find deeper insights, practical advice, and industry trends alongside stories that resonate on a more personal level.
+
+I am always open to new challenges where I can combine my technical expertise with a strategic mindset to build systems that are scalable, adaptable, and aligned with real-world needs.
 
 I am always looking for new challenges where I can combine my technical expertise with a strategic mindset to build systems that are **scalable**, **adaptable**, and **business-driven**.
